@@ -2,7 +2,7 @@ Extrair dados de base Mysql para outra base Mysql
 Bases sem comunicação direta 
 Referencias 
 https://www.mysqltutorial.org/mysql-basics/mysql-export-table-to-csv/
-
+https://stackoverflow.com/questions/2675323/mysql-load-null-values-from-csv-data
 
 
 Exemplos de opções para realizar processo 
